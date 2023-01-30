@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LalitChauhan56
+- 👋 Hi, I’m Lalit Chauhan
 - 👀 I’m a Junior Penetration Tester
 - 🌱 I’m currently learning Web Development and DSA.
 - 📫 Reach me on my Discord CutePotato69#3011
