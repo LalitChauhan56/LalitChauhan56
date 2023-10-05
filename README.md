@@ -11,4 +11,3 @@ LalitChauhan56/LalitChauhan56 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-[![An image of @lalitchauhan56's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lalitchauhan56)](https://holopin.io/@lalitchauhan56)
