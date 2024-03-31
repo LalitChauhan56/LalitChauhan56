@@ -1,4 +1,4 @@
-Hi there!👋 I'm Lalit Chauhan, a third year student studying Computer Science Engineering at JECRC University, Jaipur. 🏫 
+Hi there!👋 I'm Lalit Chauhan, a fourth year student studying Computer Science Engineering at JECRC University, Jaipur. 🏫 
 
 I'm passionate about coding and software development, and I love to learn new programming languages and technologies.👨‍💻 
 
